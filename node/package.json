@@ -1,0 +1,8 @@
+{
+  "name": "@bookbag/sdk",
+  "version": "0.1.0",
+  "description": "Bookbag Decision Gate SDK — real-time AI output evaluation",
+  "main": "src/index.js",
+  "keywords": ["bookbag", "ai", "governance", "gate", "evaluation", "audit"],
+  "license": "MIT"
+}
